@@ -127,6 +127,12 @@ const SignUp = () => {
                     >
                       Register
                     </button>
+                    <button
+                      className="btn btn-primary btn-login text-uppercase fw-bold"
+                      type="submit"
+                    >
+                      Register with Gmail
+                    </button>
                   </div>
                 </form>
                 <div className="m-3 text-center text-muted">

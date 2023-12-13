@@ -128,6 +128,12 @@ const SignIn = () => {
                     >
                       LogIn
                     </button>
+                    <button
+                      className="btn btn-primary btn-login text-uppercase fw-bold"
+                      type="submit"
+                    >
+                      LogIn with Gmail
+                    </button>
                   </div>
                 </form>
 
